@@ -1,2 +1,4 @@
 /myenv
-__pycache__
+__pycache__ 
+/data
+data/MachineLearningRating_v3.txt.dvc
